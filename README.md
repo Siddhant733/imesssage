@@ -32,7 +32,6 @@
 - 📁 File Uploads & Media Handling
 - 🌐 Deploy Your App with a Live URL
 - 🆓 100% Free Setup to Get Started
-- 📂 Full Source Code Included
 - 🎯 Resume-Ready Production-Style Project
 
 ---
